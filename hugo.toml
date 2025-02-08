@@ -1,0 +1,45 @@
+baseURL = "https://yourusername.github.io/"
+languageCode = "es"
+title = "Laura & Noah"
+theme = "PaperMod"
+
+[markup.goldmark.renderer]
+  unsafe = true # Allow HTML in md files
+
+[params]
+  homeImage = "/images/main.jpg"
+  ShowReadingTime = false
+  disableSearch = true
+  disableThemeToggle = true
+  hideFooter = true
+  robotsNoIndex = true
+
+[[menu.main]]
+  identifier = "fecha"
+  name = "Fecha"
+  url = "/fecha/"
+  weight = 1
+
+[[menu.main]]
+  identifier = "sitio"
+  name = "Sitio"
+  url = "/sitio/"
+  weight = 2
+
+[[menu.main]]
+  identifier = "horario"
+  name = "Horario"
+  url = "/horario/"
+  weight = 3
+
+[[menu.main]]
+  identifier = "vestimenta"
+  name = "Código de Vestimenta"
+  url = "/vestimenta/"
+  weight = 4
+
+[[menu.main]]
+  identifier = "alojamiento"
+  name = "Alojamiento"
+  url = "/alojamiento/"
+  weight = 5
