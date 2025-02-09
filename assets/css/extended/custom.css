@@ -1,0 +1,43 @@
+:root {
+    --theme: #f8f0e3; /* Soft cream */
+    --primary: #a16565; /* Blush pink */
+    --secondary: #bfa89e; /* Muted gold */
+    --content: #6e4646;
+}
+.body, .list, #top {
+    background-size: cover;
+    background-color: #f8f0e3;
+}
+
+#menu li {
+    display: inline-block;  /* Display list items horizontally */
+    margin: 2px;  /* Space between buttons */
+    padding: 0px 12px;  /* Space inside the buttons */
+    background-color: #d4a5a555;  /* Soft blush color */
+    color: white;  /* Text color */
+    line-height: 2;
+    border-radius: 8px;  /* Rounded corners */
+    cursor: pointer;  /* Pointer on hover */
+    transition: background-color 0.3s ease, transform 0.2s ease;  /* Smooth transition */
+}
+
+#menu .active {
+    font-weight: bold;
+    border-bottom: none !important;  /* Ensure this overrides the theme style */
+}
+
+#menu li:hover {
+    background-color: #bfa89e55;  /* Darker blush on hover */
+    transform: scale(1.05);  /* Slightly enlarge on hover */
+}
+
+.gloomy::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(255, 255, 255, 0.5); /* White semi-transparent overlay */
+  pointer-events: none; /* Ensures the overlay doesn't interfere with interactions */
+}
