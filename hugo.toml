@@ -7,7 +7,6 @@ theme = "PaperMod"
   unsafe = true # Allow HTML in md files
 
 [params]
-  homeImage = "/images/main.jpg"
   ShowReadingTime = false
   disableSearch = true
   disableThemeToggle = true
@@ -15,26 +14,14 @@ theme = "PaperMod"
   robotsNoIndex = true
 
 [[menu.main]]
-  identifier = "fecha"
-  name = "Fecha"
-  url = "/fecha/"
+  identifier = "fecha_y_lugar"
+  name = "Fecha y Lugar"
+  url = "/fecha_y_lugar/"
   weight = 1
 
 [[menu.main]]
-  identifier = "sitio"
-  name = "Sitio"
-  url = "/sitio/"
-  weight = 2
-
-[[menu.main]]
-  identifier = "horario"
-  name = "Horario"
-  url = "/horario/"
-  weight = 3
-
-[[menu.main]]
   identifier = "vestimenta"
-  name = "Código de Vestimenta"
+  name = "Dress Code"
   url = "/vestimenta/"
   weight = 4
 

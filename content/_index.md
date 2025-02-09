@@ -4,12 +4,17 @@ draft: false
 ---
 
 <p style="text-align:center;">
-Como sabéis, nos casamos durante la pandemia, cuando no se podían hacer reuniones...
+Nos casamos en 2021 en pandemia, y ahora queremos celebrarlo con vosotros
 </p>
 
 <p style="text-align:center;">
-¡Pero ahora ya sí que se puede, así que os invitamos a nuestra <span style="font-weight:bold">re-boda</span>!
+¡Así que hemos organizado nuestra <span style="font-weight:bold">re-boda</span>!
 </p>
+
+<p style="text-align:center;">
+¡Venid preparados a pasarlo bien! 💃🕺
+</p>
+
 
 ![Nuestra Boda](/images/main.jpg)
 
