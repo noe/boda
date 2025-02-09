@@ -31,13 +31,25 @@
     transform: scale(1.05);  /* Slightly enlarge on hover */
 }
 
-.gloomy::after {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background-color: rgba(255, 255, 255, 0.5); /* White semi-transparent overlay */
-  pointer-events: none; /* Ensures the overlay doesn't interfere with interactions */
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 200px)); /* Ensures images fit in the grid */
+  gap: 10px 10px;
+  justify-content: center;
+  width: 90%;
+}
+
+.grid-item {
+  width: 100%;
+}
+
+.grid-item img {
+  width: 100%;
+  height: auto;
+  max-width: 200px;
+  aspect-ratio: 16 / 9; /* Maintains 16:9 ratio */
+  object-fit: cover; /* Ensures image fills its container properly */
+  border-radius: 8px; /* Optional: Rounded corners for aesthetics */
+  margin: 0px;
 }
