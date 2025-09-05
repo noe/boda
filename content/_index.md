@@ -27,6 +27,6 @@ Nos casamos en 2021 en pandemia, y ahora queremos celebrarlo con vosotros
 
 <p style="text-align:center;font-size: 15pt; margin-top: 15px;">
 Confirmadnos porfa vuestra asistencia por Whatsapp o por teléfono, y decidnos
-si venis solos o acompañados, si tenéis alergias o intolerancias alimentarias,
+si venís solos o acompañados, si tenéis alergias o intolerancias alimentarias,
 o cualquier otra cosa que tengamos que saber.
 </p>
