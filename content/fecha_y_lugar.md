@@ -3,7 +3,7 @@ title: "Fecha y Lugar"
 draft: false
 ---
 
-Será el sábado 29 de noviembre de 2025 a las 13:00 en el Hotel NH Ventas,
+Será el sábado 29 de noviembre de 2025 a las 13:30 en el Hotel NH Ventas,
 al lado de la Plaza de toros de Las Ventas.
 
 
@@ -20,3 +20,14 @@ C/ Biarritz 2, 28028 Madrid
     loading="lazy"
     referrerpolicy="no-referrer-when-downgrade"
 ></iframe>
+
+
+Cómo llegar desde Atocha:
+
+* En taxi, Uber o Cabify.
+* En metro, cogiendo la línea 1 de metro hasta Sol y allí cambiar a la línea 2 (roja)
+hasta ventas.
+
+Si vais con bebé, podéis coger Uber Kids o Cabify Kids, que llevan una sillita.
+Si necesitáis más de una sillita, la mejor opción es pedir un taxi por teléfono
+indicándolo.

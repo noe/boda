@@ -31,3 +31,9 @@ theme = "PaperMod"
   name = "Alojamiento"
   url = "/alojamiento/"
   weight = 5
+
+[[menu.main]]
+  identifier = "regalo"
+  name = "Regalo"
+  url = "regalo"
+  weight = 2
